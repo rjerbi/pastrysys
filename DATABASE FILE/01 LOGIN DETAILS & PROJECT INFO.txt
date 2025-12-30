@@ -1,0 +1,17 @@
+**Database Name: Pastry_management_system**
+**developed by : Rahma Jerbi**
+
+**Admin Login Details(access full pastry management system)**
+
+Username: admin
+Password: admin123
+
+**Special User Login Details (access only to products)**
+
+Username: employee
+Password: employee25
+
+**User Login Details(access only to sales)**
+
+Username: user
+Password: user 
